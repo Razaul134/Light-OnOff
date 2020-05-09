@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LightApplication</string>
+    <string name="textview">显示电池容量</string>
+    <string name="textView_bt">电池容量还有80%</string>
+</resources>
