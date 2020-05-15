@@ -37,7 +37,6 @@ public class OpenTextfile_Activity extends AppCompatActivity {
             }
         });
     }
-
     private void initialization() {
         open_ETTV =findViewById(R.id.open_ETTV);
         btn_OpAC =findViewById(R.id.btn_OpAC);
